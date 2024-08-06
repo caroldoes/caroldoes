@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Carol 👋<br><br>👨‍💻 Systems Analysis and Development student<br>📚 Editorial Project Management background<br>💻 Python enthusiast<br>⚡ Currently learning Python, HTML, CSS, SQL<br>📫 How to reach me: cacau15@hotmail.com<br>🍳 Cooking lover<br>🌲 Nature hiking aficionado
+Hi there, I'm Carol 👋<br><br>👨‍💻 Systems Analysis and Development student<br>📚 Editorial Project Management background<br>💻 Python enthusiast<br>⚡ Currently learning Python, HTML, CSS, SQL<br>📫 How to reach me: cacau15@hotmail.com<br>🍰 Cooking lover<br>🌲 Nature hiking aficionado
 
 
 ## 🌐 Socials:
